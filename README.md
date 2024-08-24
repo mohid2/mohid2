@@ -2,8 +2,6 @@
 <h3 align="center">A passionate web developer from Madrid (Spain)</h3>
 
 - 👨‍💻 All of my projects are available at [https://mohammedelyousfi.vercel.app/](https://mohammedelyousfi.vercel.app/)
-- 📫 How to reach me **mohammedelyousfi3@gmail.com**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mohammed-el-yousfi-19a59b108/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="50" /></a>
